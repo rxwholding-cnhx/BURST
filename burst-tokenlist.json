@@ -1,0 +1,14 @@
+{
+  "name": "BURST Token List",
+  "logoURI": "https://raw.githubusercontent.com/rxwholding-cnhx/BURST/main/logo.png",
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0xC40Be7a2F05a9218EA77c90C4b119aC11fa26dbf",
+      "name": "BUR$T",
+      "symbol": "BURST",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rxwholding-cnhx/BURST/main/logo.png"
+    }
+  ]
+}
